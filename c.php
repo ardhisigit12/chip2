@@ -7,7 +7,7 @@ echo color("white","           Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
 echo color("white","                    COPY aja        \n");
 echo color("white","                  Format Kode 62*** \n");
 echo "\n";
-echo "\e[92m             (----- Yai Buatke Aq VOUCHER-----)               \n";
+echo "\e[92m             (--- Yai Buatke Aq VOUCHER---)               \n";
 echo "\e[89m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 // function change(){
         $nama = nama();
